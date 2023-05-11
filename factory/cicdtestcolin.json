@@ -1,0 +1,9 @@
+{
+	"name": "cicdtestcolin",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74bd77d2-f408-4171-b3c8-74bee6dbd7c6",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
