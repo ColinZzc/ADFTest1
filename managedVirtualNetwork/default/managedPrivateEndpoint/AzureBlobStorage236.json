@@ -1,7 +1,0 @@
-{
-	"name": "AzureBlobStorage236",
-	"properties": {
-		"privateLinkResourceId": "/subscriptions/2ec331ab-161f-4c83-bc02-6c4c777c3026/resourceGroups/0426/providers/Microsoft.Storage/storageAccounts/0426testlalala",
-		"groupId": "blob"
-	}
-}
